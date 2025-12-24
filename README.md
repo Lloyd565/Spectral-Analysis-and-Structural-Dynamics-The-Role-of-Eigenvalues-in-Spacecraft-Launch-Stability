@@ -63,15 +63,3 @@ Running the script generates:
 
 ## Paper
 The repository includes the PDF of the paper: `13524112_Richard Samuel Simanullang_Makalah Algeo.pdf`. Refer to it for derivations, experiments, and discussion that motivated the implemented examples.
-
-## Next steps I can take
-- Extract the paper abstract, introduction, and key figures to include in this README (I can parse the PDF if you want me to),
-- Add a `requirements.txt`, or convert the project to a proper package/CLI,
-- Run the script here and attach the generated images to `results/`.
-
-If you'd like, I can extract specific sections from the PDF and expand the README (abstract, methodology, key equations, conclusions).
-
----
-
-Created from the repository code and the included paper file.
-
